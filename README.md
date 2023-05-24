@@ -25,6 +25,7 @@ That's it. Pausing should now be disabled.
 2. Open the .sln file with Visual Studio. (I am using Visual Studo 2019 and .Net 4.7.2)
 3. Build the Solution
 
-The .dll file should now be in `ATSBlockPause\bin\Debug`. Follow the instructions for installing the pre-built mod using your .dll instead.
+The ATSBlockPause.dll file should now be in `ATSBlockPause\bin\Debug`. 
+Follow the instructions for installing the pre-built mod using your .dll instead.
 
 
