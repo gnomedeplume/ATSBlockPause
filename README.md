@@ -1,6 +1,6 @@
 # ATSBlockPause
-A simple mod for Against the Storm that blocks pausing. 
-This mod mimics the effects of the Shattered Obelisk modifier, but without any bonus Meta Resources.
+A simple mod for Against the Storm that disables pausing. 
+This mod mimics the effects of the Shattered Obelisk modifier, but without any bonus Citadel Resources.
 It also disables auto-pausing for most window overlays including:
 
 - Newcomers
