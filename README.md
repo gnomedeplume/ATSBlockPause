@@ -13,7 +13,7 @@ It also disables auto-pausing for most window overlays including:
 The only exception is the game will still pause when the Trading Post or the Menu is open.
 
 ## Installation (pre-built)
-1. Download BepInEx 5.4 x86 from https://github.com/BepInEx/BepInEx/releases. Again, make sure it's the x86 version. 
+1. Download BepInEx 5.4 x64 from https://github.com/BepInEx/BepInEx/releases. Again, make sure it's the x64 version. 
 2. Extract and put the contents of the folder in the same folder as your game files. (For example: `C:\Program Files (x86)\Steam\steamapps\common\Against the Storm`)
 3. Run the game once. The BepInEx folder in your game folder should be populated with some new folders.
 4. Download ATSBlockPause.dll from the Releases page. Copy ATSBlockPause.dll into `Against the Storm/BepInEx/plugins`.
